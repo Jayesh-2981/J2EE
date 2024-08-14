@@ -19,8 +19,8 @@ public class Employee_view {
 			System.out.println("4--> fetch employee by id");
 			System.out.println("5--> fetch by name");
 			System.out.println("6--> fetch all employe");
-			System.out.println("7--> delet employee id ");
-			System.out.println("8--> delet employee by name ");
+			System.out.println("7--> delete employee id ");
+			System.out.println("8--> delete employee by name ");
 			System.out.println("9--> Close Connection ");
 
 			switch (sc.nextInt()) {
